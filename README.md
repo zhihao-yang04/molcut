@@ -1,1 +1,4 @@
-# molcut
+### MolCut
+Retrosynthetic Analysis with a Strategic Bond Disconnection Approach Trained on a Multi-source Dataset
+## Project Introduction
+MolCut is a template-free deep learning model for retrosynthetic analysis developed by the research team from the School of Pharmaceutical Sciences, Tsinghua University. It corely adopts a strategic bond disconnection approach to predict multiple strategic bond cleavage sites directly from molecular structures and generate hierarchical retrosynthetic disconnection strategies tailored to synthetic complexity. With the disconnection number set as a controllable parameter and trained on the multi-source composite dataset (APOC, USPTO-50K, NameRxn), the model achieves prediction accuracy of synthetically tractable bond disconnection sites comparable to expert-designed routes, breaking through the limitations of traditional template-driven methods in retrosynthetic planning for complex multi-bond disconnections.
